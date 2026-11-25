@@ -1,0 +1,13 @@
+,correlation
+alcohol,0.469
+density,-0.326
+volatile acidity,-0.265
+chlorides,-0.202
+wine_type,0.115
+citric acid,0.098
+fixed acidity,-0.08
+residual sugar,-0.057
+free sulfur dioxide,0.054
+total sulfur dioxide,-0.05
+sulphates,0.042
+pH,0.04

@@ -1,0 +1,13 @@
+,importance
+alcohol,0.1783
+volatile acidity,0.0605
+free sulfur dioxide,0.0499
+sulphates,0.034
+total sulfur dioxide,0.0214
+chlorides,0.018
+pH,0.0128
+residual sugar,0.0116
+citric acid,0.0109
+fixed acidity,0.0107
+density,0.0061
+wine_type,0.0002

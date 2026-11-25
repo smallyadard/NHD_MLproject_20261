@@ -1,0 +1,5 @@
+,value
+accuracy,0.5855
+f1_weighted,0.5615
+f1_macro,0.2473
+within_1,0.968
